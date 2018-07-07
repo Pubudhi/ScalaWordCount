@@ -1,0 +1,7 @@
+The design of Scala started in 2001 at the École Polytechnique Fédérale de Lausanne (EPFL) (in Lausanne, Switzerland) by Martin Odersky. It followed on from work on Funnel, a programming language combining ideas from functional programming and Petri nets.[13] Odersky formerly worked on Generic Java, and javac, Sun's Java compiler.[13]
+
+After an internal release in late 2003, Scala was released publicly in early 2004 on the Java platform,[14][8][13][15] A second version (v2.0) followed in March 2006.[8]
+
+Although Scala had extensive support for functional programming from its inception, Java remained a mostly object-oriented language until the inclusion of lambda expressions with Java 8 in 2014.
+
+source : https://en.wikipedia.org/wiki/Scala_(programming_language)
